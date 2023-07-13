@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+  <img src='./bannerpedromesquita.png'>
+</div>
+<h2> About me: </h2>
+<h4>
+  <ul>
+    <li> Name : Pedro Mesquita </li>
+    <li> Age : 19y
+    <li> Languages :<br> - Java <br> -  JavaScript <br> - Shell Script <br> - PowerShell <br> - Python <br> - C</li> 
+    <li> Area of Interest:
+       <br>- Hacking/Pentest
+    </li>
+  </ul>
+</h4>
+ <div align="center">
+  <img src='https://github-readme-stats.vercel.app/api?username=PedroMesquitaFilho&theme=tokyonight' width="50%">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMesquitaFilho&layout=compact&theme=tokyonight' width="43%">
+</div>
 
-<!--
-**PedroMesquitaFilho/PedroMesquitaFilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
