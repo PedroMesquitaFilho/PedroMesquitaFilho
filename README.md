@@ -6,10 +6,8 @@
   <ul>
     <li> Name : Pedro Henrique Martinho Mesquita Filho </li>
     <li> Age : 19y
-    <li> Languages Studying :<br>- Java <br>-  JavaScript <br>- Shell Script <br>- PowerShell <br>- Python <br>- C</li> 
-    <li> Area of Interest:
-       <br>- Hacking/Pentest
-    </li>
+    <li> Courses : <br>-- Projeto Soli deo Gloria <br>-- Solyd Offensive Security
+    <li> Learning :<br>-- Java <br>--  JavaScript <br>-- Shell Script <br>-- PowerShell <br>-- Python <br>-- C</li> 
   </ul>
 </h4>
  <div align="center">
