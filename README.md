@@ -6,7 +6,7 @@
   <ul>
     <li> Name : Pedro Mesquita </li>
     <li> Age : 19y
-    <li> Studying Languages :<br>- Java <br>-  JavaScript <br>- Shell Script <br>- PowerShell <br>- Python <br>- C</li> 
+    <li> Languages Studying :<br>- Java <br>-  JavaScript <br>- Shell Script <br>- PowerShell <br>- Python <br>- C</li> 
     <li> Area of Interest:
        <br>- Hacking/Pentest
     </li>
