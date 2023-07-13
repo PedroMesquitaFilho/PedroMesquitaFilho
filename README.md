@@ -2,7 +2,7 @@
   <img src='./meubanner.png'>
 </div>
 <h2> About me: </h2>
-<h4>
+<h3>
   <ul>
     <li> Name : Pedro Mesquita </li>
     <li> Age : 19y
@@ -11,7 +11,7 @@
        <br>- Hacking/Pentest
     </li>
   </ul>
-</h4>
+</h3>
  <div align="center">
   <img src='https://github-readme-stats.vercel.app/api?username=PedroMesquitaFilho&theme=tokyonight' width="50%">
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMesquitaFilho&layout=compact&theme=tokyonight' width="43%">
