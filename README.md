@@ -6,8 +6,8 @@
   <ul>
     <li> Name : Pedro Henrique Martinho Mesquita Filho </li>
     <li> Age : 19y
-    <li> Courses : <br>-- Projeto Soli deo Gloria <br>-- Solyd Offensive Security
-    <li> Learning :<br>-- Java <br>--  JavaScript <br>-- Shell Script <br>-- PowerShell <br>-- Python <br>-- C</li> 
+    <li> Courses : <br>-- Basic Training Liferay <br>-- Solyd Offensive Security
+    <li> Learning : <br>-- Java <br>--  JavaScript <br>-- Shell Script <br>-- PowerShell <br>-- Python <br>-- C </li> 
   </ul>
 </h4>
  <div align="center">
