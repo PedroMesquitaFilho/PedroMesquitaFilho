@@ -4,7 +4,7 @@
 <h2> About me: </h2>
 <h4>
   <ul>
-    <li> Name : Pedro Mesquita </li>
+    <li> Name : Pedro Henrique Martinho Mesquita Filho </li>
     <li> Age : 19y
     <li> Languages Studying :<br>- Java <br>-  JavaScript <br>- Shell Script <br>- PowerShell <br>- Python <br>- C</li> 
     <li> Area of Interest:
