@@ -64,21 +64,15 @@ linux
 </details>
 
  
-<details>
-<summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
+
 <div align="center">
-  <a href="https://github.com/rubenssoares-br">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMesquitaFilho&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMesquitaFilho&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <a href="https://PedroMesquitaFilho">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMesquitaFilho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMesquitaFilho&layout=compact&langs_count=7&theme=tokyonight"/>
 <p align="right">
  <p align="center">
-        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroMesquitaFilho&hide_border=true&theme=vision-friendly-dark" />
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroMesquitaFilho&hide_border=true&theme=tokyonight" />
     </p>
-  </details>
-
-
-
-   
 </div>
    
  
