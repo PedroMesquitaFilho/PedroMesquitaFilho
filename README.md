@@ -7,7 +7,7 @@
     <li> Name : Pedro Henrique Martinho Mesquita Filho </li>
     <li> Age : 19y
     <li> Courses : <br>-- Liferay Basic Training <br>-- Solyd Offensive Security
-    <li> Languages : <br>-- Java <br>-- Shell Script <br>-- PowerShell <br>-- Python <br>-- C </li> 
+    <li> Languages Learning : <br>-- Java <br>-- JavaScript<br>-- Shell Script <br>-- PowerShell <br>-- Python <br>-- C </li> 
   </ul>
 </h3>
  <div align="center">
