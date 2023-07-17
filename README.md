@@ -18,36 +18,26 @@
  
  ##
 <details>
+  <summary><b>:brain:&nbsp; Courses</b></summary>
+<h4>
+  <ul>
+    <li> Liferay Basic Training </li>
+  </ul>
+</h4>
+</details>
+
+
+
+<details>
   <summary><b>:computer: &nbsp;Main Skills </b></summary>
-  <br/>
-
-![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=flat&logo=html&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=flat&logo=css&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;\
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)\
-![Gradle](https://img.shields.io/badge/GRADLE-02303A.svg?&style=flat&logo=gradle)&nbsp;
-![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
-![KALI_LINUX](https://img.shields.io/badge/KALI_LINUX-007ACC.svg?&style=flat&logo=ddd&logoColor=blue)&nbsp;
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
-
-<!-- 
-Java, JSF, Primefaces, Angular, Spring, Springboot, JPA/Hibernate. 
-Flutter, GetX, BLoC, MobX.
-GitHub, GitLab, Docker, Ansible
-Kotlin, Firebase.
-Ant, Maven, Gradle, 
-VSCode, Eclipse, IntelliJ IDEA.
-HTML, CSS, JavaScript, TypeScript.
-postgresql, pgadmin, mysql, sqlite.
-TDD, BDD, DDD
-clean architecture, hexagonal architecture, onion architecture, mvc, mvvm.
-linux
--->
+<h4>
+  <ul>
+    <li> Java  </li>
+    <li> Linux
+    <li> HTML </li> 
+    <li> CSS </li>
+  </ul>
+</h4>
 </details>
 
 <details>
