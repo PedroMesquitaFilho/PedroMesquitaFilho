@@ -2,10 +2,14 @@
   
   ## About Me
 
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Name: Pedro Mesquita \
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Age: 19y \
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Currently in the Soli Deo Gloria Project \
-&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Learning to be ethical hacking
+<h4>
+  <ul>
+    <li> Name: Pedro Mesquita  </li>
+    <li> Age : 19y
+    <li> Currently in the Soli Deo Gloria Project </li> 
+    <li> Learning to be ethical hacking </li>
+  </ul>
+</h4>
 
  <div align="center"> 
  <a href = "mailto:pedrohmmfilho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
