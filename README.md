@@ -42,13 +42,14 @@
 
 <details>
   <summary><b>:brain: &nbsp;Learning</b></summary>
-  <br/>
-
-
-![Nginx](https://img.shields.io/badge/NGINX-269539.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;\
-![REST API](https://img.shields.io/badge/REST-02569B.svg?&style=flat&logo=rest&logoColor=white)&nbsp;
-
+  <h4>
+  <ul>
+    <li> Python  </li>
+    <li> Shell Script
+    <li> C </li> 
+    <li> PowerShell </li>
+  </ul>
+</h4>
 
 </details>
 
