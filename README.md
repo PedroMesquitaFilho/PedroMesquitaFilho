@@ -7,6 +7,7 @@
     <li> Name: Pedro Mesquita  </li>
     <li> Age : 19y
     <li> Currently in the Soli Deo Gloria Project </li> 
+    <li> Learning to be Developer </li> 
     <li> Learning to be ethical hacking </li>
   </ul>
 </h4>
