@@ -33,8 +33,8 @@
   <summary><b>:computer: &nbsp;Main Skills </b></summary>
 <h4>
   <ul>
-    <li> Java  </li>
-    <li> Linux
+    <li> Linux </li>
+    <li>  Java  </li>
     <li> HTML </li> 
     <li> CSS </li>
   </ul>
