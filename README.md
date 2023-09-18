@@ -1,4 +1,4 @@
- <img src='./bannergit.png'>
+ <img src='./mybanner.png'>
   
   ## About Me
 
