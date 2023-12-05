@@ -23,6 +23,7 @@
 <h4>
   <ul>
     <li> Liferay Basic Training </li>
+   <li> Fuctura Tecnologia - Java </li>
   </ul>
 </h4>
 </details>
