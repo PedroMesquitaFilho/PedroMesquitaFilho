@@ -6,7 +6,7 @@
   <ul>
     <li> Name: Pedro Mesquita  </li>
     <li> Age : 20y
-    <li> Currently studying cybersecurity at fiap </li> 
+    <li> Currently studying CyberSecurity at FIAP </li> 
     <li> Learning to be Web Developer </li> 
     <li> Learning to be ethical hacking </li>
   </ul>
