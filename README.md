@@ -6,7 +6,7 @@
   <ul>
     <li> Name: Pedro Mesquita  </li>
     <li> Age : 20y
-    <li> Currently in the Soli Deo Gloria Project </li> 
+    <li> Currently studying cybersecurity at fiap </li> 
     <li> Learning to be Web Developer </li> 
     <li> Learning to be ethical hacking </li>
   </ul>
